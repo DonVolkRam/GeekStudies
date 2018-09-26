@@ -14,7 +14,7 @@ namespace Task1
         {
             string name, surname, age, height, weight;
 
-            Console.WriteLine("¬ведите »м€");
+            Console.WriteLine("¬ведите »м€ :");
             name = Console.ReadLine();
             Console.WriteLine("¬ведите фамилию");
             surname = Console.ReadLine();
